@@ -1,5 +1,5 @@
 # REPL 사용하기
-Read(읽고), Eval(해석하고), Print(반환하고), Loop(반복하고) - **REPL(Read Eval Print Loop)**이라 부른다.
+> Read(읽고), Eval(해석하고), Print(반환하고), Loop(반복하고) 라는 의미를 가지고있어 REPL(Read Eval Print Loop)이라 부른다.
 
 ## 사용
 > REPL은 한두 줄짜리 코드를 테스트해보는 용도로는 좋지만
