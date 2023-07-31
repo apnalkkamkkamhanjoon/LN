@@ -56,3 +56,11 @@ console.log(checkStringOddEven("hello"));
 ```
 
 모듈로 값을 불러올 때 변수 이름을 다르게 지정할 수도 있다. `func.js`의 `checkOddOrEven`이 `checkNumber`라는 이름으로 사용되고 있다.
+
+콘솔
+
+```bash
+& node index
+짝수입니다
+홀수입니다
+```
