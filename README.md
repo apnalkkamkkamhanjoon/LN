@@ -9,3 +9,4 @@ LearnNode
 - ### [Module](/KnowNode/Module.md)
 - ### [Built-in Object](/KnowNode/Built-in-Object.md)
 - ### [Global](/KnowNode/Global.md)
+- ### [Console](/KnowNode/Console.md)
