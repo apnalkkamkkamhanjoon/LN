@@ -1,4 +1,4 @@
-## console
+# Console
 
 > console도 노드에서는 `window` 대신 `global` 객체 안에 들어있다.
 > 브라우저에서의 `console`과 비슷하다. `console`객체는 보통 디버깅을 위해 사용된다.

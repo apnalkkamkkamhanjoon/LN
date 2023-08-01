@@ -10,3 +10,4 @@ LearnNode
 - ### [Built-in Object](/KnowNode/Built-in-Object.md)
 - ### [Global](/KnowNode/Global.md)
 - ### [Console](/KnowNode/Console.md)
+- ### [Timer](/KnowNode/Timer.md)
